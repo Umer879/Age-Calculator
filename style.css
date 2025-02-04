@@ -58,10 +58,10 @@
 @media screen and (max-width: 600px) {
     body{
         margin: 0;
-        padding: 20px;
+        padding: 10px;
         background-color: #f7f7f7;
     }
     .container{
-        margin: 10px 0;
+        margin: 8px 0;
     }
 }
